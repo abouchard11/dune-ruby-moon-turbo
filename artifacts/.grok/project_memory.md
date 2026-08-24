@@ -1,0 +1,4 @@
+- Four MidnightDev agent repos linked with directed Stack ownership: AGO → MAS → reasoning → Hermes [2026-08-23]
+- Retrospective footer added to all SKILL.md/AGENTS.md: draft-only observed notes on 4 triggers; never auto-edit skills; surface to Hermes inbox kind=decision [2026-08-23]
+- Commits: AGO 133b3d1, reasoning fdf42f0, Hermes 5937c3c, MAS 821b554 [2026-08-23]
+- Next agreed priorities: shared contracts package, kill MAS clone tax, graph runtime, wire reasoning into Hermes, Graphiti TODOs, tier unification [2026-08-23]

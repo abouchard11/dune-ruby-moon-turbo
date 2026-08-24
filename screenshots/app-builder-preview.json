@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Midnight Atlas",
+      "hasCanvas": false,
+      "bodyTextLen": 4713,
+      "bodyTextHash": "2f3a2e3be000a334e749ff31db8538dfbafe094d93768f3ad626d468845574d3",
+      "bodyTextPrefix": "MIDNIGHTDEV Atlas Directed stack, memory lanes, and the Dozen gr",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Midnight Atlas",
+      "hasCanvas": false,
+      "bodyTextLen": 4713,
+      "bodyTextHash": "2f3a2e3be000a334e749ff31db8538dfbafe094d93768f3ad626d468845574d3",
+      "bodyTextPrefix": "MIDNIGHTDEV Atlas Directed stack, memory lanes, and the Dozen gr",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
