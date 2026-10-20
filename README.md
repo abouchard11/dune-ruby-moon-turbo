@@ -1,5 +1,7 @@
 # Midnight Atlas
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23502951.svg)](https://doi.org/10.5281/zenodo.23502951)
+
 A one-page map of the MidnightDev agent stack: which repo owns what, where memory is allowed to
 live, and the one rule every node follows.
 
