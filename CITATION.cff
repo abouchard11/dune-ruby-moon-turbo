@@ -17,7 +17,13 @@ type: software
 repository-code: "https://github.com/abouchard11/dune-ruby-moon-turbo"
 url: "https://github.com/abouchard11/dune-ruby-moon-turbo"
 license: Apache-2.0
-date-released: 2026-08-24
+version: "1.0.0"
+doi: "10.5281/zenodo.23502951"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23502951"
+    description: "Concept DOI: resolves to the latest archived release on Zenodo"
+date-released: 2026-10-20
 keywords:
   - "ai-agents"
   - "architecture"
