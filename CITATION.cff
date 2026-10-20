@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "dune-ruby-moon-turbo"
+abstract: >-
+  Midnight Atlas: a one-page map of the MidnightDev agent stack, showing which
+  repository owns what, where memory is allowed to live, and the one rule every node
+  follows: the model drafts; it does not own accept, post, pay, publish, remember or
+  promote.
+authors:
+  - family-names: "Bouchard"
+    given-names: "Alex"
+    email: "alex@midnightdev.dev"
+    affiliation: "MidnightDev"
+    website: "https://midnightdev.dev"
+    orcid: "https://orcid.org/0009-0003-0911-9681"
+type: software
+repository-code: "https://github.com/abouchard11/dune-ruby-moon-turbo"
+url: "https://github.com/abouchard11/dune-ruby-moon-turbo"
+license: Apache-2.0
+date-released: 2026-08-24
+keywords:
+  - "ai-agents"
+  - "architecture"
+  - "agent-stack"
+  - "documentation"
